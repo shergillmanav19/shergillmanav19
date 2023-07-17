@@ -8,7 +8,7 @@ As a Full-Stack Software Engineer I'm passionate about building secure and relia
 
 - 🔭 I’m currently working at [Lobby Technologies Inc](https://www.lobby.so/)
 
-- 🌱 I’m currently learning **Golang and Blockchain development**
+- 🌱 I’m currently learning **Langchain and working with LLMs**
 
 - 👨‍💻 All of my projects are available at [https://shergillmanav19.github.io/](https://shergillmanav19.github.io/)
 
