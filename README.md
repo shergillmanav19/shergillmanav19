@@ -4,15 +4,13 @@ As a Full-Stack Software Engineer I'm passionate about building secure and relia
 
 - 📫 How to reach me **shergillmanav19@gmail.com**
 
-- 📄 Know about my experiences (resume link) [https://d276m685u9omvf.cloudfront.net/](https://d276m685u9omvf.cloudfront.net/)
-
 - 🔭 I’m currently working at [Lobby Technologies Inc](https://www.lobby.so/)
 
 - 🌱 I’m currently learning **Langchain and working with LLMs**
 
 - 👨‍💻 All of my projects are available at [https://shergillmanav19.github.io/](https://shergillmanav19.github.io/)
 
-- ⚡ Fun fact **I am 3-point champion in basketball**
+- ⚡ Fun fact **I am 3-point champion in basketball** in victoria
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
